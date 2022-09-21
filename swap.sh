@@ -1,6 +1,4 @@
 #! /bin/bash -x
-# Static input of the
-# number
 first=5
 second=10
    
